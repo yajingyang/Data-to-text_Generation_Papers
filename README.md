@@ -4,7 +4,7 @@ A summary of Data-to-text Generation Papers.
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"> <a href="#datasets">Datasets</a></td></tr>
+<tr><td colspan="2"> <a href="#data">Data</a></td></tr>
 
 <tr>
     <td> <a href="#public-datasets">Public Datasets</a></td>
@@ -37,7 +37,8 @@ A summary of Data-to-text Generation Papers.
 <tr><td colspan="2"> <a href="#thesis">Thesis</a></td></tr>
 
 </table>
-## [Datasets](#datasets)
+
+## [Data](#data)
 
 ### [Public Datasets](#public-datasets)
 1. **Challenges in Data-to-Document Generation** EMNLP, 2017 [paper](http://dx.doi.org/10.18653/v1/d17-1239) 
